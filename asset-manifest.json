@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-p-one/static/css/main.02e46ba3.css",
+    "main.js": "/react-p-one/static/js/main.fd363795.js",
+    "index.html": "/react-p-one/index.html",
+    "main.02e46ba3.css.map": "/react-p-one/static/css/main.02e46ba3.css.map",
+    "main.fd363795.js.map": "/react-p-one/static/js/main.fd363795.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02e46ba3.css",
+    "static/js/main.fd363795.js"
+  ]
+}
